@@ -5,7 +5,7 @@ import time
 
 print(f"""==== PYTHON CALCULATOR ====
 powered by Python [{sys.version}]
-this calculator supports addition, subtraction, multiplication and division
+this calculator uses eval() function
 type your problem when READY, type "exit" to exit the program
 READY.\n""")
 
